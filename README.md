@@ -5,4 +5,3 @@
 SLOPE - https://cookeddoone.github.io/schoolnotes/
 
 }-----------------------{
-           end
