@@ -2,6 +2,6 @@
 
 }-----------------------{
 
-SLOPE - https://cookeddoone.github.io/schoolnotes/
+<a href="https://cookeddoone.github.io/schoolnotes/">slope</a>
 
 }-----------------------{
